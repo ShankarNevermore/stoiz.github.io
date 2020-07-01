@@ -1,7 +1,7 @@
 # Site settings
 title:       Pixyll
 email:       stoiz@pm.me
-author:      John Otander
+author:      Dubi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "https://stoiz.github.io/"
