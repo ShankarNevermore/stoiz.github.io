@@ -1,0 +1,2 @@
+# stoiz.github.io
+blog
